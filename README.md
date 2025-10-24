@@ -53,7 +53,7 @@ This is an **IoT-based Smart Home Automation System** developed during my IoT In
 5. LCD displays real-time status locally
 
 ## 📸 Output
-Check the `project_demo.mp4` file to see the system in action!
+Check the `[project_demo.mp4](https://youtu.be/hPLTYQ7Ad60)` file to see the system in action!
 
 ## 👨‍💻 Developer
 **Ram Axaykumar**  
