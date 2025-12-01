@@ -24,13 +24,15 @@ This is an **IoT-based Smart Home Automation System** developed during my IoT In
 - Blynk IoT App
 - PicsimLab (Simulation)
 - Virtual Driver Connector
+  ⚠️ Note: The hardware components are used only in virtual simulation, not as an actual hardware setup.
 
 ## 🔌 Circuit Diagram
 
 
 
 ⚠️ Note: This circuit diagram is for reference purposes only. Actual connections may vary based on hardware setup.
-
+⚠️ Note: The hardware components are used only in virtual simulation, not as an actual hardware setup.
+No physical hardware was built.**
 
 ![Circuit Diagram](circuit_image%20(1).png)
 
