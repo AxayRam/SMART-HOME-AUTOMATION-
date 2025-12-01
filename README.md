@@ -26,6 +26,10 @@ This is an **IoT-based Smart Home Automation System** developed during my IoT In
 - Virtual Driver Connector
 
 ## 🔌 Circuit Diagram
+
+⚠️ Note: This circuit diagram is for reference purposes only. Actual connections may vary based on hardware setup.
+
+
 ![Circuit Diagram](circuit_image%20(1).png)
 
 ## 📁 Project Files
