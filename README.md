@@ -27,6 +27,8 @@ This is an **IoT-based Smart Home Automation System** developed during my IoT In
 
 ## 🔌 Circuit Diagram
 
+
+
 ⚠️ Note: This circuit diagram is for reference purposes only. Actual connections may vary based on hardware setup.
 
 
